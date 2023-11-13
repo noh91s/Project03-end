@@ -354,3 +354,7 @@ span.fc-icon.fc-icon-chevron-right {
     overflow-x: hidden;
     border-bottom: 1px solid #dddddd;
 }
+
+#notice-render-area {
+    background: url(/images/dashboard/ChatBot_DB.png) no-repeat 50%/contain;
+}
